@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+@import 'vendor/normalize';
+
+main{
+  width: 100%;
+  margin-top:20px;
+}
+
+header {
+  background-color: #F21982;
+  padding: 2px;
+  text-align: center;
+  color: white;
+}
+
+.container{
+  width: 100%;
+}
+
+h2{
+  font-size: 22px;
+  text-align: center;
+  margin-top:10px;
+  color: white;
+}
+
+li.collection-header h4{
+  font-size: 20px;
+  text-align: center;
+}
+
+li.collection-item:hover{
+  background-color: #e0e0e0;
+}
+
+hr.addComponent{
+  color: white;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(255,255,255, 0.1), rgba(255,255,255, 0.9), rgba(255,255,255, 0.1));
+  margin-bottom: 25px;
+}
+
+hr{
+  width: 100%;
+  color: grey;
+}
+
+div.card-panel.white.black-test{
+  padding-left:0px;
+  padding-right:0px;
+}
+
+i.right{
+  margin-right: 20px;
+  color: grey;
+}
