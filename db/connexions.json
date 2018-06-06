@@ -1,0 +1,1228 @@
+{
+  "data": [
+    {
+      "result": 0,
+      "children": [
+        {
+          "id": 1,
+          "name": "Product booster",
+          "result": 0,
+          "children": [
+            {
+              "id": 1,
+              "name": "CHARTRES",
+              "result": 0,
+              "children": [
+                {
+                  "id": 1,
+                  "name": "TEAM MASTER",
+                  "result": 0
+                },
+                {
+                  "id": 3,
+                  "name": "LA CLASSE",
+                  "result": 0
+                },
+                {
+                  "id": 5,
+                  "name": "STEFANE PERROT",
+                  "result": 0
+                },
+                {
+                  "id": 6,
+                  "name": "LAURENT FILLIATREAU",
+                  "result": 0
+                },
+                {
+                  "id": 7,
+                  "name": "LES R.O.I",
+                  "result": 0
+                },
+                {
+                  "id": 10,
+                  "name": "CEDRIC TAM",
+                  "result": 0
+                },
+                {
+                  "id": 125,
+                  "name": "EDF TEAM OPTIMUM",
+                  "result": 0
+                },
+                {
+                  "id": 126,
+                  "name": "EDF TEAM PREMIUM",
+                  "result": 0
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "RAMBOUILLET",
+              "result": 0,
+              "children": [
+                {
+                  "id": 1,
+                  "name": "TEAM MASTER",
+                  "result": 0
+                },
+                {
+                  "id": 8,
+                  "name": "TEAM MC MANAGER",
+                  "result": 0
+                },
+                {
+                  "id": 9,
+                  "name": "SO TEAM",
+                  "result": 0
+                },
+                {
+                  "id": 75,
+                  "name": "Tutut GROUP",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "ANTELES",
+          "result": 0,
+          "children": [
+            {
+              "id": 4,
+              "name": "L'ISLE D'ESPAGNAC",
+              "result": 0,
+              "children": [
+                {
+                  "id": 12,
+                  "name": "LAURENT FILLIATREAU",
+                  "result": 0
+                },
+                {
+                  "id": 13,
+                  "name": "SABRINA GONZALEZ",
+                  "result": 0
+                },
+                {
+                  "id": 83,
+                  "name": "LOLYTA MARIE",
+                  "result": 0
+                },
+                {
+                  "id": 84,
+                  "name": "OCEANE GESTRAUD",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "EDF",
+          "result": 0,
+          "children": [
+            {
+              "id": 5,
+              "name": "CRC COEUR DE LOIRE",
+              "result": 0,
+              "children": [
+                {
+                  "id": 17,
+                  "name": "CLAIRE LECAT",
+                  "result": 0
+                },
+                {
+                  "id": 117,
+                  "name": "LES INSUS",
+                  "result": 0
+                },
+                {
+                  "id": 118,
+                  "name": "Equipe 10 Tours",
+                  "result": 0
+                }
+              ]
+            },
+            {
+              "id": 15,
+              "name": "CRC CHARENTE-MARITIME",
+              "result": 0,
+              "children": [
+                {
+                  "id": 120,
+                  "name": "Les Wariors",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "PMU",
+          "result": 0,
+          "children": [
+            {
+              "id": 6,
+              "name": "ALFORTVILLE",
+              "result": 0,
+              "children": [
+                {
+                  "id": 22,
+                  "name": "PMU DSRC",
+                  "result": 0
+                },
+                {
+                  "id": 23,
+                  "name": "DREAM TEAM 100% CLIENT",
+                  "result": 0
+                },
+                {
+                  "id": 24,
+                  "name": "EQUIPE BACK OFFICE",
+                  "result": 0
+                },
+                {
+                  "id": 25,
+                  "name": "EQUIPE ALLO PARI 1",
+                  "result": 0
+                },
+                {
+                  "id": 26,
+                  "name": "EQUIPE ALLO PARI 2",
+                  "result": 0
+                },
+                {
+                  "id": 27,
+                  "name": "EQUIPE FRONT OFFICE",
+                  "result": 0
+                },
+                {
+                  "id": 133,
+                  "name": "KARINE VILCHIEN",
+                  "result": 0
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "name": "ACTICALL",
+              "result": 0,
+              "children": [
+                {
+                  "id": 28,
+                  "name": "SCACTICALL TEAM SE",
+                  "result": 0
+                },
+                {
+                  "id": 29,
+                  "name": "BO TEAM DJ",
+                  "result": 0
+                },
+                {
+                  "id": 30,
+                  "name": "SCACTICALL TEAM AM",
+                  "result": 0
+                },
+                {
+                  "id": 31,
+                  "name": "ACTICALL AT ",
+                  "result": 0
+                },
+                {
+                  "id": 32,
+                  "name": "ACTICALL ALLOPARI",
+                  "result": 0
+                },
+                {
+                  "id": 33,
+                  "name": "LUDOVIC BENOOT",
+                  "result": 0
+                },
+                {
+                  "id": 58,
+                  "name": "DAMIEN CARLIER",
+                  "result": 0
+                },
+                {
+                  "id": 63,
+                  "name": "JEROME BARBECOT",
+                  "result": 0
+                },
+                {
+                  "id": 69,
+                  "name": "TEAM APPELS ENTRANTS GLOBAL TSCRA",
+                  "result": 0
+                },
+                {
+                  "id": 70,
+                  "name": "TEAM MAILS GLOBAL TBO",
+                  "result": 0
+                },
+                {
+                  "id": 72,
+                  "name": "TEAM DO TDO",
+                  "result": 0
+                },
+                {
+                  "id": 73,
+                  "name": "TEAM APSO TAPSO",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "BOSCH SERVICE SOLUTIONS",
+          "result": 0,
+          "children": [
+            {
+              "id": 8,
+              "name": "FREYMING-MERLEBACH",
+              "result": 0,
+              "children": [
+                {
+                  "id": 34,
+                  "name": "CAROLINE MANO",
+                  "result": 0
+                },
+                {
+                  "id": 36,
+                  "name": "SEBASTIEN ROSTOUCHER",
+                  "result": 0
+                },
+                {
+                  "id": 39,
+                  "name": "ELISABETH SERGENT",
+                  "result": 0
+                },
+                {
+                  "id": 40,
+                  "name": "GREGORY TEAM  ELM",
+                  "result": 0
+                },
+                {
+                  "id": 42,
+                  "name": "EMMANUEL / GREGORY TEAM PT",
+                  "result": 0
+                },
+                {
+                  "id": 43,
+                  "name": "MONIKA ZAGRODNICKA ",
+                  "result": 0
+                },
+                {
+                  "id": 44,
+                  "name": "JULIE BONI",
+                  "result": 0
+                },
+                {
+                  "id": 45,
+                  "name": "ANGIE USAI ",
+                  "result": 0
+                },
+                {
+                  "id": 47,
+                  "name": "MICHAEL HENZ",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "ARMATIS",
+          "result": 0,
+          "children": [
+            {
+              "id": 9,
+              "name": "Boulogne sur Mer",
+              "result": 0,
+              "children": [
+                {
+                  "id": 50,
+                  "name": "EMILIE ROUTTIER",
+                  "result": 0
+                },
+                {
+                  "id": 51,
+                  "name": "MIGUEL PECQUEUX",
+                  "result": 0
+                },
+                {
+                  "id": 52,
+                  "name": "PEGGY CARPENTIER",
+                  "result": 0
+                },
+                {
+                  "id": 53,
+                  "name": "AGNES BASTIEN LEBLED",
+                  "result": 0
+                },
+                {
+                  "id": 54,
+                  "name": "NICOLAS DILLY",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Tutut GROUP",
+          "result": 0,
+          "children": [
+            {
+              "id": 10,
+              "name": "Tutut Group",
+              "result": 0,
+              "children": [
+                {
+                  "id": 79,
+                  "name": "SARA IDOUISSAADEN",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Société trucmuche",
+          "result": 0,
+          "children": [
+            {
+              "id": 11,
+              "name": "Paris",
+              "result": 0,
+              "children": [
+                {
+                  "id": 80,
+                  "name": "JACK BOND",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "CAPDUNE - ENGIE",
+          "result": 0,
+          "children": [
+            {
+              "id": 12,
+              "name": "COUDEKERQUE BRANCHE",
+              "result": 0,
+              "children": [
+                {
+                  "id": 85,
+                  "name": "SYLVAIN MORIVAL",
+                  "result": 0
+                },
+                {
+                  "id": 95,
+                  "name": "TEAM ANGÉLIQUE",
+                  "result": 0
+                },
+                {
+                  "id": 96,
+                  "name": "TEAM MANON",
+                  "result": 0
+                },
+                {
+                  "id": 97,
+                  "name": "SAMY BEN M BAREK",
+                  "result": 0
+                },
+                {
+                  "id": 98,
+                  "name": "DELPHINE GROUST",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "CAPDUNE - LA POSTE MOBILE",
+          "result": 0,
+          "children": [
+            {
+              "id": 13,
+              "name": "COUDEKERQUE BRANCHE",
+              "result": 0,
+              "children": [
+                {
+                  "id": 105,
+                  "name": "ELODIE EL KASSIMI",
+                  "result": 0
+                },
+                {
+                  "id": 106,
+                  "name": "FIONA TAYLOR",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "ARMATIS",
+          "result": 0,
+          "children": [
+            {
+              "id": 14,
+              "name": "CHARTRES",
+              "result": 0,
+              "children": [
+                {
+                  "id": 107,
+                  "name": "RÉMI TAPERRO",
+                  "result": 0
+                },
+                {
+                  "id": 109,
+                  "name": "GUILHERME DA SILVA",
+                  "result": 0
+                },
+                {
+                  "id": 110,
+                  "name": "CECÍLIA TEIXEIRA",
+                  "result": 0
+                },
+                {
+                  "id": 111,
+                  "name": "ANA VILLASBOAS",
+                  "result": 0
+                },
+                {
+                  "id": 112,
+                  "name": "ELISABETE AMARO",
+                  "result": 0
+                },
+                {
+                  "id": 113,
+                  "name": "FERNANDO MOREIRA",
+                  "result": 0
+                },
+                {
+                  "id": 114,
+                  "name": "JORGE TEIXEIRA",
+                  "result": 0
+                },
+                {
+                  "id": 115,
+                  "name": "MARCO RAPAZOTE",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "MGEN",
+          "result": 0,
+          "children": [
+            {
+              "id": 16,
+              "name": "LYON",
+              "result": 0,
+              "children": [
+                {
+                  "id": 124,
+                  "name": "SEBASTIEN BARNIER",
+                  "result": 0
+                },
+                {
+                  "id": 127,
+                  "name": "TEAM HERMES",
+                  "result": 0
+                }
+              ]
+            },
+            {
+              "id": 17,
+              "name": "BORDEAUX",
+              "result": 0,
+              "children": [
+                {
+                  "id": 124,
+                  "name": "SEBASTIEN BARNIER",
+                  "result": 0
+                },
+                {
+                  "id": 128,
+                  "name": "CAROLE TEAM BORDEAUX",
+                  "result": 0
+                },
+                {
+                  "id": 129,
+                  "name": "TEAM BORDEAUX REGION",
+                  "result": 0
+                },
+                {
+                  "id": 130,
+                  "name": "CHRISTELLE TEAM BORDEAUX",
+                  "result": 0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "date": "2015"
+    },
+    {
+      "result": 3873,
+      "children": [
+        {
+          "id": 1,
+          "name": "Product booster",
+          "result": 58,
+          "children": [
+            {
+              "id": 1,
+              "name": "CHARTRES",
+              "result": 58,
+              "children": [
+                {
+                  "id": 1,
+                  "name": "TEAM MASTER",
+                  "result": 24
+                },
+                {
+                  "id": 3,
+                  "name": "LA CLASSE",
+                  "result": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "ANTELES",
+          "result": 1363,
+          "children": [
+            {
+              "id": 4,
+              "name": "L'ISLE D'ESPAGNAC",
+              "result": 1363,
+              "children": [
+                {
+                  "id": 12,
+                  "name": "LAURENT FILLIATREAU",
+                  "result": 104
+                },
+                {
+                  "id": 14,
+                  "name": "GWENDOLINE GOMEZ",
+                  "result": 559
+                },
+                {
+                  "id": 18,
+                  "name": "SABRINA GONZALEZ",
+                  "result": 154
+                },
+                {
+                  "id": 83,
+                  "name": "LOLYTA MARIE",
+                  "result": 256
+                },
+                {
+                  "id": 84,
+                  "name": "OCEANE GESTRAUD",
+                  "result": 290
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "EDF",
+          "result": 19,
+          "children": [
+            {
+              "id": 5,
+              "name": "CRC COEUR DE LOIRE",
+              "result": 19,
+              "children": [
+                {
+                  "id": 15,
+                  "name": "TEAM GC",
+                  "result": 7
+                },
+                {
+                  "id": 16,
+                  "name": "CRC Coeur de Loire",
+                  "result": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "PMU",
+          "result": 577,
+          "children": [
+            {
+              "id": 6,
+              "name": "ALFORTVILLE",
+              "result": 176,
+              "children": [
+                {
+                  "id": 24,
+                  "name": "EQUIPE BACK OFFICE",
+                  "result": 28
+                },
+                {
+                  "id": 25,
+                  "name": "EQUIPE ALLO PARI 1",
+                  "result": 34
+                },
+                {
+                  "id": 26,
+                  "name": "EQUIPE ALLO PARI 2",
+                  "result": 10
+                },
+                {
+                  "id": 27,
+                  "name": "EQUIPE FRONT OFFICE",
+                  "result": 102
+                },
+                {
+                  "id": 132,
+                  "name": "EMILIENNE BASSONGUE",
+                  "result": 2
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "name": "ACTICALL",
+              "result": 401,
+              "children": [
+                {
+                  "id": 22,
+                  "name": "PMU DSRC",
+                  "result": 18
+                },
+                {
+                  "id": 31,
+                  "name": "ACTICALL AT ",
+                  "result": 1
+                },
+                {
+                  "id": 32,
+                  "name": "ACTICALL ALLOPARI",
+                  "result": 4
+                },
+                {
+                  "id": 33,
+                  "name": "LUDOVIC BENOOT",
+                  "result": 152
+                },
+                {
+                  "id": 69,
+                  "name": "TEAM APPELS ENTRANTS GLOBAL TSCRA",
+                  "result": 145
+                },
+                {
+                  "id": 70,
+                  "name": "TEAM MAILS GLOBAL TBO",
+                  "result": 6
+                },
+                {
+                  "id": 71,
+                  "name": "TEAM CHAT GLOBAL TCHAT",
+                  "result": 71
+                },
+                {
+                  "id": 72,
+                  "name": "TEAM DO TDO",
+                  "result": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "BOSCH SERVICE SOLUTIONS",
+          "result": 66,
+          "children": [
+            {
+              "id": 8,
+              "name": "FREYMING-MERLEBACH",
+              "result": 66,
+              "children": [
+                {
+                  "id": 34,
+                  "name": "CAROLINE MANO",
+                  "result": 16
+                },
+                {
+                  "id": 36,
+                  "name": "SEBASTIEN ROSTOUCHER",
+                  "result": 1
+                },
+                {
+                  "id": 37,
+                  "name": "GABRIEL DISPOT",
+                  "result": 5
+                },
+                {
+                  "id": 38,
+                  "name": "SAMIA BOURAHLA",
+                  "result": 1
+                },
+                {
+                  "id": 44,
+                  "name": "JULIE BONI",
+                  "result": 11
+                },
+                {
+                  "id": 45,
+                  "name": "ANGIE USAI ",
+                  "result": 24
+                },
+                {
+                  "id": 46,
+                  "name": "LAETITIA STUDLE",
+                  "result": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "ARMATIS",
+          "result": 1676,
+          "children": [
+            {
+              "id": 9,
+              "name": "Boulogne sur Mer",
+              "result": 1676,
+              "children": [
+                {
+                  "id": 48,
+                  "name": "MD3P CANAL+RET",
+                  "result": 38
+                },
+                {
+                  "id": 49,
+                  "name": "NICOLAS DELATTRE",
+                  "result": 2
+                },
+                {
+                  "id": 50,
+                  "name": "EMILIE ROUTTIER",
+                  "result": 48
+                },
+                {
+                  "id": 51,
+                  "name": "MIGUEL PECQUEUX",
+                  "result": 589
+                },
+                {
+                  "id": 52,
+                  "name": "PEGGY CARPENTIER",
+                  "result": 298
+                },
+                {
+                  "id": 53,
+                  "name": "AGNES BASTIEN LEBLED",
+                  "result": 249
+                },
+                {
+                  "id": 54,
+                  "name": "NICOLAS DILLY",
+                  "result": 397
+                },
+                {
+                  "id": 55,
+                  "name": "Les Warriors",
+                  "result": 55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Tutut GROUP",
+          "result": 114,
+          "children": [
+            {
+              "id": 10,
+              "name": "Tutut Group",
+              "result": 114,
+              "children": [
+                {
+                  "id": 77,
+                  "name": "IMANE RYANY",
+                  "result": 11
+                },
+                {
+                  "id": 78,
+                  "name": "MYRIEM BELFAIDA",
+                  "result": 13
+                },
+                {
+                  "id": 79,
+                  "name": "SARA IDOUISSAADEN",
+                  "result": 90
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "date": "2016"
+    },
+    {
+      "result": 3433,
+      "children": [
+        {
+          "id": 1,
+          "name": "Product booster",
+          "result": 6,
+          "children": [
+            {
+              "id": 1,
+              "name": "CHARTRES",
+              "result": 6,
+              "children": [
+                {
+                  "id": 1,
+                  "name": "TEAM MASTER",
+                  "result": 1
+                },
+                {
+                  "id": 3,
+                  "name": "LA CLASSE",
+                  "result": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "ANTELES",
+          "result": 2183,
+          "children": [
+            {
+              "id": 4,
+              "name": "L'ISLE D'ESPAGNAC",
+              "result": 2183,
+              "children": [
+                {
+                  "id": 12,
+                  "name": "LAURENT FILLIATREAU",
+                  "result": 115
+                },
+                {
+                  "id": 14,
+                  "name": "GWENDOLINE GOMEZ",
+                  "result": 771
+                },
+                {
+                  "id": 18,
+                  "name": "SABRINA GONZALEZ",
+                  "result": 260
+                },
+                {
+                  "id": 83,
+                  "name": "LOLYTA MARIE",
+                  "result": 442
+                },
+                {
+                  "id": 84,
+                  "name": "OCEANE GESTRAUD",
+                  "result": 595
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "EDF",
+          "result": 62,
+          "children": [
+            {
+              "id": 5,
+              "name": "CRC COEUR DE LOIRE",
+              "result": 51,
+              "children": [
+                {
+                  "id": 15,
+                  "name": "TEAM GC",
+                  "result": 21
+                },
+                {
+                  "id": 16,
+                  "name": "CRC Coeur de Loire",
+                  "result": 18
+                },
+                {
+                  "id": 118,
+                  "name": "Equipe 10 Tours",
+                  "result": 12
+                }
+              ]
+            },
+            {
+              "id": 15,
+              "name": "CRC CHARENTE-MARITIME",
+              "result": 11,
+              "children": [
+                {
+                  "id": 15,
+                  "name": "TEAM GC",
+                  "result": 2
+                },
+                {
+                  "id": 121,
+                  "name": "FREDDY RIVIERE",
+                  "result": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "PMU",
+          "result": 193,
+          "children": [
+            {
+              "id": 6,
+              "name": "ALFORTVILLE",
+              "result": 40,
+              "children": [
+                {
+                  "id": 22,
+                  "name": "PMU DSRC",
+                  "result": 3
+                },
+                {
+                  "id": 24,
+                  "name": "EQUIPE BACK OFFICE",
+                  "result": 26
+                },
+                {
+                  "id": 25,
+                  "name": "EQUIPE ALLO PARI 1",
+                  "result": 3
+                },
+                {
+                  "id": 26,
+                  "name": "EQUIPE ALLO PARI 2",
+                  "result": 1
+                },
+                {
+                  "id": 27,
+                  "name": "EQUIPE FRONT OFFICE",
+                  "result": 7
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "name": "ACTICALL",
+              "result": 153,
+              "children": [
+                {
+                  "id": 22,
+                  "name": "PMU DSRC",
+                  "result": 5
+                },
+                {
+                  "id": 32,
+                  "name": "ACTICALL ALLOPARI",
+                  "result": 1
+                },
+                {
+                  "id": 33,
+                  "name": "LUDOVIC BENOOT",
+                  "result": 36
+                },
+                {
+                  "id": 69,
+                  "name": "TEAM APPELS ENTRANTS GLOBAL TSCRA",
+                  "result": 87
+                },
+                {
+                  "id": 71,
+                  "name": "TEAM CHAT GLOBAL TCHAT",
+                  "result": 23
+                },
+                {
+                  "id": 72,
+                  "name": "TEAM DO TDO",
+                  "result": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "ARMATIS",
+          "result": 503,
+          "children": [
+            {
+              "id": 9,
+              "name": "Boulogne sur Mer",
+              "result": 503,
+              "children": [
+                {
+                  "id": 48,
+                  "name": "MD3P CANAL+RET",
+                  "result": 6
+                },
+                {
+                  "id": 51,
+                  "name": "MIGUEL PECQUEUX",
+                  "result": 232
+                },
+                {
+                  "id": 52,
+                  "name": "PEGGY CARPENTIER",
+                  "result": 160
+                },
+                {
+                  "id": 53,
+                  "name": "AGNES BASTIEN LEBLED",
+                  "result": 43
+                },
+                {
+                  "id": 54,
+                  "name": "NICOLAS DILLY",
+                  "result": 62
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Tutut GROUP",
+          "result": 436,
+          "children": [
+            {
+              "id": 10,
+              "name": "Tutut Group",
+              "result": 436,
+              "children": [
+                {
+                  "id": 77,
+                  "name": "IMANE RYANY",
+                  "result": 10
+                },
+                {
+                  "id": 78,
+                  "name": "MYRIEM BELFAIDA",
+                  "result": 20
+                },
+                {
+                  "id": 79,
+                  "name": "SARA IDOUISSAADEN",
+                  "result": 406
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "CAPDUNE - ENGIE",
+          "result": 25,
+          "children": [
+            {
+              "id": 12,
+              "name": "COUDEKERQUE BRANCHE",
+              "result": 25,
+              "children": [
+                {
+                  "id": 85,
+                  "name": "SYLVAIN MORIVAL",
+                  "result": 14
+                },
+                {
+                  "id": 94,
+                  "name": "FABIEN SAUVAGE",
+                  "result": 10
+                },
+                {
+                  "id": 95,
+                  "name": "TEAM ANGÉLIQUE",
+                  "result": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "CAPDUNE - LA POSTE MOBILE",
+          "result": 23,
+          "children": [
+            {
+              "id": 13,
+              "name": "COUDEKERQUE BRANCHE",
+              "result": 23,
+              "children": [
+                {
+                  "id": 86,
+                  "name": "SYLVAIN MORIVAL",
+                  "result": 18
+                },
+                {
+                  "id": 104,
+                  "name": "EDDY KIRKET",
+                  "result": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "ARMATIS",
+          "result": 2,
+          "children": [
+            {
+              "id": 14,
+              "name": "CHARTRES",
+              "result": 2,
+              "children": [
+                {
+                  "id": 107,
+                  "name": "RÉMI TAPERRO",
+                  "result": 2
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "date": "2017"
+    }
+  ]
+}
